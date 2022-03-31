@@ -1,5 +1,5 @@
-Homework 3 for code bootcamp.
+Screenshot <image ref:'Homework3\Screenshot 2022-03-31 170602.png/>
 
-Struggling to get password creation formulated.
+Homework 3 for code bootcamp.
 
 Deployed link: https://mrsamylighfoot.github.io/Homework3/
